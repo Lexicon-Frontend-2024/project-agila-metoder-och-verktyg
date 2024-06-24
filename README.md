@@ -3,7 +3,7 @@ En kravdokument låter skrämmande i många fall, men det är egentligen bara et
 
 >All-Nature is a web-shop used to buy naturally grown products. We are starting a small business and are in a need of a webpage for it. Our business idea is to sell naturally produced fruits, vegetables, seeds and other naturally prepared products from our local physical vendors.
 >
-We would like to have a site with minimal design, where users can place orders of their chosen products. We would also require webpage management access, so we are able to add new products, change prices and see all placed orders, as well as to set certain products to “out of stock” or totally remove them – all this should be done by administrators.
+>We would like to have a site with minimal design, where users can place orders of their chosen products. We would also require webpage management access, so we are able to add new products, change prices and see all placed orders, as well as to set certain products to “out of stock” or totally remove them – all this should be done by administrators.
 >
 It would also be necessary to have a tab or a page where we can put all foods with close to best-before date, so these are heavily discounted. We believe the front page should be a good place to have this tab, as we want to sell these products as fast as possible. As a requirement, we would also like for a user to register so we can keep track of their orders. As for users – they should be able to set delivery address with their real name. We would also like to have a page where a user can read about what we do and how our business was started as well as the page so users can submit an issue that is going to be handled by our admins.
 >
