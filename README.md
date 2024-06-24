@@ -25,3 +25,4 @@ Välj ut vilka delar av texten är viktiga för att få sidan fungera enligt bes
 * Varje task skall ha value points. Hur viktig den är för projektet / hur svår den är att genomföra.
 * Använd Github Projects för att skriva ner era user stories och bryta ut dessa till tasks.
 * Arbeta i era grupper och diskutera mycket - viktigt att alla får säga vad de tycker!
+* Krav på att ha på kamera under era möten.
