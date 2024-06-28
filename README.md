@@ -26,3 +26,6 @@ Välj ut vilka delar av texten är viktiga för att få sidan fungera enligt bes
 * Använd Github Projects för att skriva ner era user stories och bryta ut dessa till tasks.
 * Arbeta i era grupper och diskutera mycket - viktigt att alla får säga vad de tycker!
 * Krav på att ha på kamera under era möten.
+
+## Inlämning
+Skapa ett repo som ni döper efter ert tilldelade gruppnamn, skapa ett projekt och koppla det till ert repo. Gör sedan både Jesper och Maja (santosnr6 & majazocom) till collaborators för både ert repo och ert projekt. 
